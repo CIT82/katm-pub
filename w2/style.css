@@ -1,0 +1,18 @@
+body {
+    background-color: darkslateblue;
+}
+
+p {
+    background-color: black;
+    text-align: center;
+    font-size: xx-large;
+    color: papayawhip;
+    border-radius: 10px;
+    border-style: dashed;
+    border-color: peachpuff; 
+}
+
+img {
+    display: block;
+    margin: 0 auto;
+}
