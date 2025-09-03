@@ -1,0 +1,44 @@
+body {
+  font-family: 'Courier New', Courier, monospace;
+  background-color: rgb(0, 0, 0);
+  color: rgb(255, 255, 255);
+  text-align: center;
+}
+
+table,
+th,
+td {
+  border: 5px solid green;
+  font-size: larger;
+  font-weight: bold;
+}
+
+table {
+  background-color: lightpink;
+  color: darkblue;
+  margin: auto;
+}
+button.clickme {
+  background-color: lightblue;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-size: 30px;
+  cursor: pointer;
+}
+button.dontclickme {
+  background-color: red;
+  border-radius: 20px;
+  padding: 10px 20px;
+  font-size: 30px;
+  cursor: pointer;
+}
+p.footer {
+  font-size: small;
+  color: gray;
+  text-align: center;
+
+}
+a {
+  color: yellow;
+  text-decoration: none;
+}
