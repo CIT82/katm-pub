@@ -31,3 +31,8 @@ footer {
 label {
     display: block;
 }
+h2, label {
+    color: rgb(255, 255, 255);
+    background-color: tomato;
+    border: 5px solid black;
+}
